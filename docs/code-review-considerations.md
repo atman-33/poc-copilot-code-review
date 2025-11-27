@@ -1,5 +1,7 @@
 # Code Review Considerations
 
+> **Note to Copilot:** When generating review comments, please use **actual line breaks** in the Markdown text instead of printing the literal `\n` characters. Ensure the output is properly formatted multi-line Markdown.
+
 ## Must
 When finding issues related to the following points, please include the badge ![must](https://img.shields.io/badge/review-must-red.svg) in your review comment.
 
