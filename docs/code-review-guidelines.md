@@ -2,6 +2,10 @@
 
 > **Note to Copilot:** When generating review comments, please use **actual line breaks** in the Markdown text instead of printing the literal `\n` characters. Ensure the output is properly formatted multi-line Markdown.
 
+## Pull Request Overview
+- Items labeled with ![must](https://img.shields.io/badge/review-must-red.svg) must be addressed.
+- If a conflict occurs and is resolved, Copilot will not automatically review it, so you must request a review from Copilot again yourself.
+
 ## Must
 When finding issues related to the following points, please include the badge ![must](https://img.shields.io/badge/review-must-red.svg) in your review comment.
 

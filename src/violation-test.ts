@@ -21,3 +21,20 @@ function getUserName(user: User): string {
 
 const rawData: any = "some raw data";
 processUserData(rawData);
+
+// Additional examples of violations
+
+// Violation: Explicit Return Types (missing return type)
+function calculateTotal(price: number, tax: number) {
+    return price * (1 + tax);
+}
+
+// Violation: Avoid `any` type
+function logMessage(message: any): void {
+    console.log(message);
+}
+
+// Violation: No Non-null Assertions
+function getFirstChar(text: string | undefined): string {
+    return text!.charAt(0);
+}
