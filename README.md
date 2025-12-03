@@ -10,7 +10,7 @@ To confirm whether Copilot's code review on Pull Requests is performed appropria
 
 In this project, code reviews are conducted based on the rules defined in the following document:
 
-- [docs/code-review-considerations.md](./docs/code-review-considerations.md)
+- [docs/code-review-guidelines.md](./docs/code-review-guidelines.md)
 
 ### Key Rules
 
@@ -26,5 +26,5 @@ In this project, code reviews are conducted based on the rules defined in the fo
 
 ## File Structure
 
-- `docs/code-review-considerations.md`: Definition of code review rules
+- `docs/code-review-guidelines.md`: Definition of code review rules
 - `src/violation-test.ts`: File containing violation code for testing

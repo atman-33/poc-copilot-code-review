@@ -1,4 +1,4 @@
-# Code Review Considerations
+# Code Review Guidelines
 
 > **Note to Copilot:** When generating review comments, please use **actual line breaks** in the Markdown text instead of printing the literal `\n` characters. Ensure the output is properly formatted multi-line Markdown.
 
